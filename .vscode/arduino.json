@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "WifiModule\\wifiTest.ino",
+    "port": "COM5"
+}
